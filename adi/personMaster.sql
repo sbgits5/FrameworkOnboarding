@@ -1,0 +1,2 @@
+Select subscriberKey
+from [Adi_PersonMaster_Test]
